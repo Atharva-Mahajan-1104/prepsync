@@ -190,6 +190,4 @@ MIT ADT University, Pune
 ---
 
 
-📁 The **perfect .gitignore**
 
-Just tell me!
