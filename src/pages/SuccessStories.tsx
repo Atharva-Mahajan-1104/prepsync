@@ -12,27 +12,8 @@ const successStories = [
     improvement: '87%',
     interviews: 12,
     rating: 5,
-  },
-  {
-    name: 'Michael Rodriguez',
-    role: 'Product Manager at Meta',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400',
-    company: 'https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=200',
-    story: 'The AI feedback was invaluable. It helped me identify areas where I needed improvement and ultimately led to multiple job offers.',
-    improvement: '92%',
-    interviews: 8,
-    rating: 5,
-  },
-  {
-    name: 'Emily Taylor',
-    role: 'Data Scientist at Amazon',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400',
-    company: 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=200',
-    story: 'From nervous candidate to confident professional. AI Coach transformed my interview performance and helped me secure a senior position.',
-    improvement: '95%',
-    interviews: 15,
-    rating: 5,
-  },
+  }
+  
 ];
 
 export function SuccessStories() {
